@@ -1,1 +1,1 @@
-web: gunicorn djapi.wsgi --log-file -
+web: gunicorn api_sdp.wsgi --log-file -
